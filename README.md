@@ -1,3 +1,8 @@
+# This is a fork of es-get-iterator
+
+## This specifically targets the "node.js" file in main. Fixed strange pkg compilation issues within deep-equal, a dependent library.
+
+
 # es-get-iterator <sup>[![Version Badge][npm-version-svg]][package-url]</sup>
 
 [![dependency status][deps-svg]][deps-url]
@@ -5,7 +10,6 @@
 [![License][license-image]][license-url]
 [![Downloads][downloads-image]][downloads-url]
 
-# This is a fork of es-get-iterator that specifically targets the "node.js" file in main. Fixed strange pkg compilation issues within deep-equal, a dependent library.
 
 [![npm badge][npm-badge-png]][package-url]
 
